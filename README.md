@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 😊 About Me:
 I'm currently working on a accounting application using C#
 
 
