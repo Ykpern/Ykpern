@@ -1,5 +1,7 @@
 # 😊 About Me:
-I'm currently working on a accounting application using C#
+👀 I’m interested in C# and Python, mostly backend development.
+👨‍💻 I'm currently working on a accounting application using C#
+
 
 
 ## 🌐 Socials:
