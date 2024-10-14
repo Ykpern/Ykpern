@@ -1,5 +1,5 @@
 # 😊 About Me:
-👀 I’m interested in C# and Python, mostly backend development.
+👀 I’m interested in C# and Python, mostly backend development and software testing.
 
 👨‍💻 I'm currently working on a accounting application using C#
 
