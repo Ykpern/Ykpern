@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>🔒 Cryptography & Security Researcher | Master's Student</h3>
+  <h3>🔒 Specialized in Cryptography & Security | Master's Student @KIT</h3>
   <p>
     Specializing in <b>Cryptography, Network Security, and Secure System Architectures</b>.<br>
     I am passionate about solving complex problems, designing secure algorithms, and understanding the "under-the-hood" mechanics of modern software.
